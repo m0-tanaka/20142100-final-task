@@ -89,8 +89,7 @@ int main() {
 	
 	cout << endl;
 
-	/*while (1)*/
-	for (int i = 1; i <= 3000; ++i){
+	while (1) {
 		system("cls");
 		for (int y = 0; y < 4; y++) {
 			for (int x = 0; x < 4; x++) {
